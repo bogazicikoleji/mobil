@@ -1,4 +1,4 @@
 <current-versions>
-<android version="2.1.2"></android>
+<android version="3.1.2"></android>
 <ios version="1.0"></ios>
 </current-versions>
